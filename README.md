@@ -10,9 +10,9 @@
 [linkedin]: https://www.linkedin.com/in/enesbaysal/
 [mail]: mailto:enesbaysl@outlook.com
 
-[<img align="left" height= "32" width = "32" src ="https://unpkg.com/simple-icons@v4/icons/linkedin.svg"/>][linkedin]
+[<img align="left" height= "32" width = "32" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
 
-[<img align="left" height= "32" width = "32" src ="https://unpkg.com/simple-icons@v4/icons/mail-dot-ru.svg"/>][mail]
+[<img align="left" height= "32" width = "32" src ="https://github.com/PlanetWilson/Office365icons/blob/master/Outlook_OfficeCore10_32x_24x_20x_16x_01-22-2019.svg"/>][mail]
 
 <br/>
 <br/>
