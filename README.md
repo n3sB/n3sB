@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Enes. :smiley:
 
-## Computer Science And Engineering Student
+## Computer Engineer 
 
 <font color = "red">Cyber Security excites me </font>
 
